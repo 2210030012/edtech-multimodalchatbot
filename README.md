@@ -28,3 +28,6 @@ EduAI is a multimodal chatbot built using:
    GROQ_API_KEY=your_key_here
 5. Run:
    npx vercel dev
+
+## Live Demo
+https://your-vercel-link.vercel.app
