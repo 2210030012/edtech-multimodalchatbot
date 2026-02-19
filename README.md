@@ -30,4 +30,4 @@ EduAI is a multimodal chatbot built using:
    npx vercel dev
 
 ## Live Demo
-https://your-vercel-link.vercel.app](https://edtech-multimodalchatbot.vercel.app/
+https://edtech-multimodalchatbot.vercel.app/
